@@ -13,7 +13,7 @@ Es por ello que:
 * Rechazamos la precariedad laboral, demandando una remuneración y condiciones justas acordes a nuestra capacidad.
 * Deseamos dar visibilidad tanto a profesionales como empresas que en la actualidad han roto con los moldes establecidos y están demostrando que otro modelo es posible.
 * Luchamos por que ningún colega tenga que irse de Canarias debido a la falta de oportunidades y que los que estén expatriados encuentren vías de volver si lo desean.
-* No estamos subvencionados por ninguna empresa ni organización para permitir un diálogo abierto entre iguales
+* No estamos subvencionados por ninguna empresa ni organización para permitir un diálogo abierto entre iguales.
 * Promovemos la organización de encuentros en toda Canarias para discutir, analizar y proponer soluciones para los problemas del sector.
 * No nos centramos en plataformas o lenguajes concretos, sino en ofrecer apoyo y consejo a nuestros iguales.
 * Buscamos la mejora contínua de nuestras habilidades y situación laboral y para ello nos apoyamos en los conocimientos y experiencias pasadas del resto de miembros de la comunidad.
