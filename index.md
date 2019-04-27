@@ -19,3 +19,7 @@ Es por ello que:
 * Buscamos la mejora contínua de nuestras habilidades y situación laboral y para ello nos apoyamos en los conocimientos y experiencias pasadas del resto de miembros de la comunidad.
 
 Cualquier persona que participe en el ciclo de desarrollo del software es bienvenida a unirse, escuchar y participar. Somos una comunidad inclusiva y respetuosa con todos los géneros, identidades y formas de expresión.
+
+## Libro de Firmas
+
+* 29/04/2019 - [Javier Toledo](https://twitter.com/javier_toledo) - CTO @ [The Agile Monkeys](https://www.theagilemonkeys.com)
