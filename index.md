@@ -23,3 +23,4 @@ Cualquier persona que participe en el ciclo de desarrollo del software es bienve
 ## Libro de Firmas
 
 * 29/04/2019 - [Javier Toledo](https://twitter.com/javier_toledo) - CTO @ [The Agile Monkeys](https://www.theagilemonkeys.com)
+* 29/04/2019 - [Roberto Diaz](https://twitter.com/rdiaz82) - Software Developer @ [The Agile Monkeys](https://www.theagilemonkeys.com)
