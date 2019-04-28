@@ -22,7 +22,11 @@ Cualquier persona que participe en el ciclo de desarrollo del software es bienve
 
 ## Libro de Firmas
 
-* 29/04/2019 - [Javier Toledo](https://twitter.com/javier_toledo) - CTO @ [The Agile Monkeys](https://www.theagilemonkeys.com)
+Con nuestras firmas declaramos estar de acuerdo con el manifiesto y colaborar en la medida de nuestras posibilidades a hacerlo una realidad. 
+
+> Para añadir tu firma envíanos un Pull Request, haciendo un cambio a [este fichero](https://github.com/canarias-dev/canarias-dev.github.io/blob/master/index.md), añadiéndola al final de la lista con la fecha, tu nombre (que puede incluir un link alguna forma de contacto personal) y tu título profesional. Hemos preferido no incluir referencias a nuestras empresas en el libro de firmas para que no haya confusiones en cuanto al respaldo de dichas organizaciones con esta causa. Si lo deseas, incluye en tu Pull Request una nota especificando si deseas que te invitemos a formar parte de la organización Canarias.dev en Github para poder mostrar el logo de la comunidad en tu perfil.
+
+* 29/04/2019 - [Javier Toledo](https://twitter.com/javier_toledo) - CTO
 * 29/04/2019 - [Roberto Diaz](https://twitter.com/rdiaz82) - Software Developer
 * 29/04/2019 - [Luján Fernaud](https://twitter.com/lujanfernaud) - Software Developer
 * 29/04/2019 - [Boris Vera](https://twitter.com/verainthemiddle) - Software Developer
