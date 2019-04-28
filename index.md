@@ -30,3 +30,4 @@ Con nuestras firmas declaramos estar de acuerdo con el manifiesto y colaborar en
 * 29/04/2019 - [Roberto Diaz](https://twitter.com/rdiaz82) - Software Developer
 * 29/04/2019 - [Luján Fernaud](https://twitter.com/lujanfernaud) - Software Developer
 * 29/04/2019 - [Boris Vera](https://twitter.com/verainthemiddle) - Software Developer
+* 29/04/2019 - [Nikita Tchayka](https://twitter.com/NickSeagull) - Software Developer
