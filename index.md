@@ -37,3 +37,4 @@ Con nuestras firmas declaramos estar de acuerdo con el manifiesto y colaborar en
 * 29/04/2019 - [Jorge Rodríguez](https://twitter.com/JorgeRdg) - Software Developer
 * 29/04/2019 - [Agustín Villalba](https://www.agustinvillalba.com) - Software Developer
 * 29/04/2019 - [Atamán Vega Vega](https://twitter.com/ataman_vega) - Software Developer
+* 29/04/2019 - [Dani Afonso](https://twitter.com/Sr_DanieI) - Software Developer
