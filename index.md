@@ -35,3 +35,4 @@ Con nuestras firmas declaramos estar de acuerdo con el manifiesto y colaborar en
 * 29/04/2019 - [Jorge Nieto](https://twitter.com/jnietou) - Frontend Developer
 * 29/04/2019 - [Antonio Fumero](https://twitter.com/amfumero) - Product Owner
 * 29/04/2019 - [Jorge Rodríguez](https://twitter.com/JorgeRdg) - Software Developer
+* 29/04/2019 - [Agustín Villalba](https://www.agustinvillalba.com) - Software Developer
