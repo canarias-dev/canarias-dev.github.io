@@ -38,3 +38,4 @@ Con nuestras firmas declaramos estar de acuerdo con el manifiesto y colaborar en
 * 29/04/2019 - [Agustín Villalba](https://www.agustinvillalba.com) - Software Developer
 * 29/04/2019 - [Atamán Vega Vega](https://twitter.com/ataman_vega) - Software Developer
 * 29/04/2019 - [Dani Afonso](https://twitter.com/Sr_DanieI) - Software Developer
+* 29/04/2019 - [Andrés del Pino](https://www.linkedin.com/in/andrés-del-pino-bolaños-423b5744/) - COO
