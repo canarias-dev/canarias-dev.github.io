@@ -32,3 +32,4 @@ Con nuestras firmas declaramos estar de acuerdo con el manifiesto y colaborar en
 * 29/04/2019 - [Boris Vera](https://twitter.com/verainthemiddle) - Software Developer
 * 29/04/2019 - [Nikita Tchayka](https://twitter.com/NickSeagull) - Software Developer
 * 29/04/2019 - [Juan F. Sagasti](https://twitter.com/jfsagasti) - Software Developer
+* 29/04/2019 - [Atamán Vega Vega](https://twitter.com/ataman_vega) - Software Developer
