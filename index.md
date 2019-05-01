@@ -41,3 +41,4 @@ Con nuestras firmas declaramos estar de acuerdo con el manifiesto y colaborar en
 * 29/04/2019 - [Andrés del Pino](https://www.linkedin.com/in/andrés-del-pino-bolaños-423b5744/) - COO
 * 30/04/2019 - [Daniel Romero](https://www.linkedin.com/in/romerodeveloper/) - Software Developer
 * 30/04/2019 - [Thais Hernández](https://www.linkedin.com/in/thaishdz/) - Frontend Developer
+* 01/05/2019 - [Natalia Portillo](https://www.linkedin.com/in/nataliaportillo/) (Twitter: [@girlyngeek](https://www.twitter.com/girlyngeek)) - Technical Architect, Software Developer 
