@@ -43,3 +43,4 @@ Con nuestras firmas declaramos estar de acuerdo con el manifiesto y colaborar en
 * 30/04/2019 - [Thais Hernández](https://www.linkedin.com/in/thaishdz/) - Frontend Developer
 * 01/05/2019 - [Natalia Portillo](https://www.linkedin.com/in/nataliaportillo/) (Twitter: [@girlyngeek](https://www.twitter.com/girlyngeek)) - Technical Architect, Software Developer 
 * 01/05/2019 - [Imobach González Sosa](https://github.com/imobachgs) - Software Developer
+* 01/05/2019 - [Luis Ramírez Calle](https://www.linkedin.com/in/luis-ramirez-calle/) - FullStack Developer
