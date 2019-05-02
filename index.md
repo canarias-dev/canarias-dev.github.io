@@ -44,3 +44,4 @@ Con nuestras firmas declaramos estar de acuerdo con el manifiesto y colaborar en
 * 01/05/2019 - [Natalia Portillo](https://www.linkedin.com/in/nataliaportillo/) (Twitter: [@girlyngeek](https://www.twitter.com/girlyngeek)) - Technical Architect, Software Developer 
 * 01/05/2019 - [Imobach González Sosa](https://github.com/imobachgs) - Software Developer
 * 01/05/2019 - [Luis Ramírez Calle](https://www.linkedin.com/in/luis-ramirez-calle/) - FullStack Developer
+* 02/05/2019 - [Jacobo de Vera](https://twitter.com/jovianjake) - Backend Software Engineer, Tech Lead
