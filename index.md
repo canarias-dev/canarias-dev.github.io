@@ -46,3 +46,4 @@ Con nuestras firmas declaramos estar de acuerdo con el manifiesto y colaborar en
 * 01/05/2019 - [Luis Ramírez Calle](https://www.linkedin.com/in/luis-ramirez-calle/) - FullStack Developer
 * 02/05/2019 - [Jacobo de Vera](https://twitter.com/jovianjake) - Backend Software Engineer, Tech Lead
 * 03/05/2019 - [Raúl Anatol](https://twitter.com/raulanatol) - CTO
+* 04/05/2019 - [Natalio Sacerdote](https://www.linkedin.com/in/natalio-sacerdote-bbaab382/) - Software Developer
