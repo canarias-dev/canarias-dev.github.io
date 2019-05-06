@@ -48,3 +48,4 @@ Con nuestras firmas declaramos estar de acuerdo con el manifiesto y colaborar en
 * 03/05/2019 - [Raúl Anatol](https://twitter.com/raulanatol) - CTO
 * 04/05/2019 - [Natalio Sacerdote](https://www.linkedin.com/in/natalio-sacerdote-bbaab382/) - Software Developer
 * 05/05/2019 - [Tai Nguyen Bui](https://www.linkedin.com/in/tainguyenbui) - Software Engineer
+* 05/05/2019 - [David Díaz](https://twitter.com/diazglezdavid) - Software Developer
