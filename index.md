@@ -51,3 +51,4 @@ Con nuestras firmas declaramos estar de acuerdo con el manifiesto y colaborar en
 * 05/05/2019 - [David Díaz](https://twitter.com/diazglezdavid) - Software Developer
 * 06/05/2019 - [Jonathan Gómez](https://www.linkedin.com/in/jonathangomezmartel/) - CTO
 * 06/05/2019 - [Eduardo Romero](https://www.linkedin.com/in/eduardorq/) - FullStack Developer
+* 07/05/2019 - [José Mena](https://www.linkedin.com/in/jose-mena-0619/) - FullStack Developer
