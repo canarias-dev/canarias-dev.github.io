@@ -53,3 +53,4 @@ Con nuestras firmas declaramos estar de acuerdo con el manifiesto y colaborar en
 * 06/05/2019 - [Eduardo Romero](https://www.linkedin.com/in/eduardorq/) - FullStack Developer
 * 07/05/2019 - [José Mena](https://www.linkedin.com/in/jose-mena-0619/) - FullStack Developer
 * 08/05/2019 - [Alberto Morales](https://www.linkedin.com/in/mmyalberto) - Software Developer
+* 09/05/2019 - [Carlos Espino](https://www.linkedin.com/in/carlos-espino-timon/) - FullStack Developer
