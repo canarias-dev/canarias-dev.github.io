@@ -55,3 +55,4 @@ Con nuestras firmas declaramos estar de acuerdo con el manifiesto y colaborar en
 * 08/05/2019 - [Alberto Morales](https://www.linkedin.com/in/mmyalberto) - Software Developer
 * 09/05/2019 - [Carlos Espino](https://www.linkedin.com/in/carlos-espino-timon/) - FullStack Developer
 * 13/05/2019 - [Arcadio Ramírez](https://www.linkedin.com/in/ark333) - Desarrollador Frontend
+* 31/05/2019 - [Jean Carlos Ayala](https://jeanayala.co/) - FullStack Developer
