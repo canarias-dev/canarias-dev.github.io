@@ -57,3 +57,4 @@ Con nuestras firmas declaramos estar de acuerdo con el manifiesto y colaborar en
 * 13/05/2019 - [Arcadio Ramírez](https://www.linkedin.com/in/ark333) - Desarrollador Frontend
 * 31/05/2019 - [Alfonso García Giménez](https://www.linkedin.com/in/foncho) - CEO & CTO
 * 31/05/2019 - [Jean Carlos Ayala](https://jeanayala.co/) - FullStack Developer
+* 04/06/2019 - [Johan Sebastian Cortes Montenegro](https://twitter.com/hinigul) - Desarrollador de software
