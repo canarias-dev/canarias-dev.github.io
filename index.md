@@ -60,3 +60,4 @@ Con nuestras firmas declaramos estar de acuerdo con el manifiesto y colaborar en
 * 03/06/2019 - [Isaura Fontcuberta](https://www.linkedin.com/in/fontcuberta/) - Product Designer & FullStack Developer
 * 04/06/2019 - [Johan Sebastian Cortes Montenegro](https://twitter.com/hinigul) - Desarrollador de software
 * 05/06/2019 - [Marcos Escandell](https://www.linkedin.com/in/mjescandell/) - Software Developer
+* 05/06/2019 - [Yodra López](https://twitter.com/yodralopez) - FullStack Developer
