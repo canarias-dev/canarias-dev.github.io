@@ -61,4 +61,4 @@ Con nuestras firmas declaramos estar de acuerdo con el manifiesto y colaborar en
 * 04/06/2019 - [Johan Sebastian Cortes Montenegro](https://twitter.com/hinigul) - Desarrollador de software
 * 05/06/2019 - [Marcos Escandell](https://www.linkedin.com/in/mjescandell/) - Software Developer
 * 05/06/2019 - [Yodra López](https://twitter.com/yodralopez) - FullStack 
-* 05/06/2019 - [Gema Socorro Rodriguez](https://twitter.com/gemamsr) - Software 
+* 05/06/2019 - [Gema Socorro Rodriguez](https://twitter.com/gemamsr) - Software Developer
