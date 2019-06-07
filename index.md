@@ -62,3 +62,4 @@ Con nuestras firmas declaramos estar de acuerdo con el manifiesto y colaborar en
 * 05/06/2019 - [Marcos Escandell](https://www.linkedin.com/in/mjescandell/) - Software Developer
 * 05/06/2019 - [Yodra López](https://twitter.com/yodralopez) - FullStack 
 * 05/06/2019 - [Gema Socorro Rodriguez](https://twitter.com/gemamsr) - Software Developer
+* 07/06/2019 - [Adrián Pérez Montesdeoca](https://www.linkedin.com/in/adrián-pérez-montesdeoca-5b329b43/) - Software Developer
