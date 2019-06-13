@@ -64,3 +64,4 @@ Con nuestras firmas declaramos estar de acuerdo con el manifiesto y colaborar en
 * 05/06/2019 - [Gema Socorro Rodriguez](https://twitter.com/gemamsr) - Software Developer
 * 07/06/2019 - [Adrián Pérez Montesdeoca](https://www.linkedin.com/in/adrián-pérez-montesdeoca-5b329b43/) - Software Developer
 * 08/06/2019 - [Gonzalo García Jaubert](https://www.linkedin.com/in/gonzalogarciajaubert/) - Software Developer
+* 13/06/2019 - [Tomás de las Casas Engel](https://www.linkedin.com/in/tomas-de-las-casas-engel-b9318846/) - Software Developer
