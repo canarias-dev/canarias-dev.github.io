@@ -37,7 +37,7 @@ export default new Vuex.Store({
           month = `0${month}`
         }
         let year = dateObj.getFullYear()
-        dateCalc = `${day}/${month}/${year}`
+        dateCalc = `${year}/${month}/${day}`
         let updates = {}
         updates[`firms/private/${eventKey}/name`] = payload.name
         updates[`firms/private/${eventKey}/title`] = payload.title
