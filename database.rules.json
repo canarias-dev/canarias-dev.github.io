@@ -1,0 +1,49 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "totalFirms": {
+      ".read": true,
+      ".write": "root.child('admins').hasChild(auth.uid)"
+    },
+    "firms": {
+      "private": {
+        ".read": "root.child('admins').hasChild(auth.uid)",
+        ".write": "root.child('admins').hasChild(auth.uid)",
+        "$firm_id": {
+          "name": {
+            ".write": "(!data.exists() && newData.exists()) || root.child('admins').hasChild(auth.uid)"
+          },
+          "title": {
+            ".write": "(!data.exists() && newData.exists()) || root.child('admins').hasChild(auth.uid)"
+          },
+          "url": {
+            ".write": "(!data.exists() && newData.exists()) || root.child('admins').hasChild(auth.uid)"
+          },
+          "date": {
+            ".write": "(!data.exists() && newData.exists()) || root.child('admins').hasChild(auth.uid)"
+          }
+        }
+      },
+      "public": {
+        ".read": true,
+        ".write": "root.child('admins').hasChild(auth.uid)",
+        "$firm_id": {
+          ".indexOn": ["date"],
+          "name": {
+            ".write": "(!data.exists() && newData.exists()) && root.child('admins').hasChild(auth.uid)"
+          },
+          "title": {
+            ".write": "(!data.exists() && newData.exists()) && root.child('admins').hasChild(auth.uid)"
+          },
+          "url": {
+            ".write": "(!data.exists() && newData.exists()) && root.child('admins').hasChild(auth.uid)"
+          },
+          "date": {
+            ".write": "(!data.exists() && newData.exists()) && root.child('admins').hasChild(auth.uid)"
+          }
+        }
+      }
+    }
+  }
+}
