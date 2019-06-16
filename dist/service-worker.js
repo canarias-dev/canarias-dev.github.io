@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.4ef404b360b56db7acd446109219a6e8.js"
+  "/precache-manifest.45fb4bfc0cbb51de248bf03774ac3b10.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "canarias_dev"});
