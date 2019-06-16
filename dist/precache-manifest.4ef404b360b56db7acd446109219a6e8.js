@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "85fb9e89adad5a7281c6",
-    "url": "/js/register.3f1da1d7.js"
+    "revision": "72262a2d3cc3e77e2783",
+    "url": "/js/register.9e99284d.js"
   },
   {
     "revision": "adcb5e0f57ae9d15ba957f44d390ffbb",
@@ -12,16 +12,16 @@ self.__precacheManifest = [
     "url": "/img/canarilogo.a10313d7.png"
   },
   {
-    "revision": "380306062b6f8996c43a",
-    "url": "/js/chunk-vendors.b9db75af.js"
+    "revision": "abe11489b0b5c4aeeeb6",
+    "url": "/js/chunk-vendors.5f39dec5.js"
   },
   {
-    "revision": "3c5d2e2a69fedc9666c8",
-    "url": "/js/logOutBtn.5dc90ecf.js"
+    "revision": "c5a781e1a630a1890978",
+    "url": "/js/logOutBtn.7dfdbc6f.js"
   },
   {
-    "revision": "25704a1867becbb7850f",
-    "url": "/js/login.65639f6c.js"
+    "revision": "e5108eab5b5fbd0f7243",
+    "url": "/js/login.fa8e2797.js"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
@@ -36,19 +36,19 @@ self.__precacheManifest = [
     "url": "/mstile-150x150.png"
   },
   {
-    "revision": "ddb5e2e7c540d0a12026",
-    "url": "/js/navSignManifest.102bd3ad.js"
+    "revision": "eeb60db567ec1f020c36",
+    "url": "/js/navSignManifest.10d6dd36.js"
   },
   {
-    "revision": "d43befbed4bcb6ebef20",
-    "url": "/js/controlPanel.0b63884c.js"
+    "revision": "fb13ae1cac5b9affbbfa",
+    "url": "/js/controlPanel.3825b0c2.js"
   },
   {
-    "revision": "ea3b4ca06e43ba95a1c7",
-    "url": "/js/app.16910aff.js"
+    "revision": "5f7de854309a8879070b",
+    "url": "/js/app.1741f1b9.js"
   },
   {
-    "revision": "cd19ef21ccc7c58aa358872851f5e854",
+    "revision": "00b6eecd05376460c240ddf88fa37c64",
     "url": "/index.html"
   },
   {
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/favicon-16x16.png"
   },
   {
-    "revision": "ddb5e2e7c540d0a12026",
+    "revision": "eeb60db567ec1f020c36",
     "url": "/css/navSignManifest.616b3d8c.css"
   },
   {
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/css/login~navSignManifest~register.a6cefaa6.css"
   },
   {
-    "revision": "380306062b6f8996c43a",
+    "revision": "abe11489b0b5c4aeeeb6",
     "url": "/css/chunk-vendors.89bf4e3b.css"
   },
   {
