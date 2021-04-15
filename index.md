@@ -66,3 +66,4 @@ Con nuestras firmas declaramos estar de acuerdo con el manifiesto y colaborar en
 * 08/06/2019 - [Gonzalo García Jaubert](https://www.linkedin.com/in/gonzalogarciajaubert/) - Software Developer
 * 13/06/2019 - [Tomás de las Casas Engel](https://www.linkedin.com/in/tomas-de-las-casas-engel-b9318846/) - Software Developer
 * 15/06/2019 - [David Frigolet García](https://www.linkedin.com/in/davidfrigolet/) - Software Engineer
+* 15/04/2021 - [Andriy Oblivantsev](https://angel.co/eSlider) - Software Engineer
